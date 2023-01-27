@@ -68,7 +68,7 @@
       display: flex;
       align-items: center;
       min-height: 100vh;
-      background: url("../media/roo.jpg")no-repeat;
+      background: url("roo.jpg")no-repeat;
       background-size: cover;
       background-position: center;
       
